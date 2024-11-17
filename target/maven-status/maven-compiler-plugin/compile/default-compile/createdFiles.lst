@@ -1,0 +1,3 @@
+com\javatechie\controller\ProductController.class
+com\javatechie\ProductServiceApplication.class
+com\javatechie\config\KafkaConfig.class
